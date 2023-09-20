@@ -1,0 +1,29 @@
+body {
+  font-family: sans-serif;
+  background-color: blue;
+}
+.card {
+  height: 250px;
+  width: 425px;
+  background-color: white;
+  margin: 100px;
+  text-align: center;
+  border-radius: 10px;
+}
+.msg {
+  padding-top: 10px;
+  text-align: center;
+  margin-bottom: 40px;
+  margin-top: 10px;
+}
+input {
+  width: 350px;
+  margin-bottom: 25px;
+}
+button {
+  background-color: navy;
+  color: white;
+  font-size: 20px;
+  padding: 5px;
+  cursor: pointer;
+}
